@@ -49,6 +49,15 @@ h6 {
 	font-family: "Nunito Sans", sans-serif;
 }
 
+@font-face {
+    font-family: 'Flux';
+    src: url('/static/font/flux.ttf') format('truetype');
+}
+
+.flux {
+    font-family: 'Flux', sans-serif;
+}
+
 h1 {
 	font-size: 70px;
 }
